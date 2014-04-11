@@ -1,4 +1,4 @@
-ghost-laban
+Laban
 ===========
 
 Template for the Ghost CMS
