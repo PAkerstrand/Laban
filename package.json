@@ -1,17 +1,27 @@
 {
 	"name": "Laban",
 	"version": "0.0.1",
+	"description": "The Ghost CMS theme used by www.akerstrand.se",
+	"keywords": ["ghost", "cms", "theme"],
+	"homepage": "http://www.akerstrand.se/laban",
 	"author": {
 		"name": "Patrik Åkerstrand",
 		"email": "patrik@akerstrand.se",
 		"url": "http://www.akerstrand.se"
 	},
-	"description": "The Ghost CMS theme used by www.akerstrand.se",
+	"contributors": [
+		{
+			"name": "Patrik Åkerstrand",
+			"email": "patrik@akerstrand.se",
+			"url": "http://www.akerstrand.se"
+		}
+	],
 	"repository" : {
 		"type" : "git",
 		"url" : "http://github.com/PAkerstrand/Laban.git"
 	},
 	"bugs": "https://github.com/PAkerstrand/Laban/issues",
+	"license": "MIT",
 	"devDependencies": {
 		"grunt": "^0.4.4",
 		"grunt-contrib-uglify": "^0.4.0",
